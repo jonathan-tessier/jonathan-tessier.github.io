@@ -14,5 +14,8 @@
 
 ## Figures and Simulations
 #### Unstable Bickley Jet (Nonlinear Regime)
-![jet](https://user-images.githubusercontent.com/83715168/117182125-f664ae80-ada3-11eb-8831-1d7673ba877b.jpg)
-
+![time1](https://user-images.githubusercontent.com/83715168/117199285-04242f00-adb8-11eb-9cb1-2daa4342e5c1.jpg)
+![time2](https://user-images.githubusercontent.com/83715168/117199295-06868900-adb8-11eb-9526-343946909dee.jpg)
+![time3](https://user-images.githubusercontent.com/83715168/117199304-08504c80-adb8-11eb-9677-b2d7c00895e5.jpg)
+![time4](https://user-images.githubusercontent.com/83715168/117199311-0be3d380-adb8-11eb-8dbd-e787e0bc2f8d.jpg)
+![time5](https://user-images.githubusercontent.com/83715168/117199318-0e462d80-adb8-11eb-8b0a-a8f59788759c.jpg)
