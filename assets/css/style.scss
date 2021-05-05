@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+.bgimage {
+background-image: url(’{{ site.baseurl }}/assets/images/jet.jpg’);
+}
