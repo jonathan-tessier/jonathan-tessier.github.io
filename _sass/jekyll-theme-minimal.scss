@@ -56,10 +56,6 @@ a:hover small {
 }
 
 .wrapper {
-  background-image: url('https://github.com/jonathan-tessier/jonathan-tessier.github.io/blob/master/assets/images/jet.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
   width:860px;
   margin:0 auto;
 }
@@ -192,6 +188,10 @@ strong {
 section {
   width:500px;
   float:right;
+  background-image: url('https://github.com/jonathan-tessier/jonathan-tessier.github.io/blob/master/assets/images/jet.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   padding-bottom:50px;
 }
 
