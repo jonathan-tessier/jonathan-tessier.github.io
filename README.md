@@ -12,6 +12,7 @@ My current research interests concern the evolution and stability of various flo
 ## Publications
 To come..
 
-## Cool Figures
+## Figures and Simulations
+Unstable Bickley Jet (Nonlinear Regime)
 ![jet](https://user-images.githubusercontent.com/83715168/117182125-f664ae80-ada3-11eb-8831-1d7673ba877b.jpg)
 
