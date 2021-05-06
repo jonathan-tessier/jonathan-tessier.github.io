@@ -17,8 +17,11 @@
 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="320" height="240" controls="true" allowfullscreen="true" poster="assets/images/jet.png">
+  <video width="1600" height="1600" controls="true" allowfullscreen="true" poster="assets/images/jet.png">
     <source src="assets/images/jet.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
+
+![frame_0177](https://user-images.githubusercontent.com/83715168/117323048-89f9b600-ae5c-11eb-8827-1e47cabf99c2.png)
+
