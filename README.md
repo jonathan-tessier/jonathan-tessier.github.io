@@ -1,5 +1,5 @@
 ## About
-#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in C/C++, Python, R, Matlab, Fortran, Maple and automation frameworks.
+#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in C/C++, Python, Matlab, Fortran, R, Maple and automation frameworks.
 
 ## Education
 #### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
