@@ -7,7 +7,7 @@
 #### Candidate for a Master of Mathematics (Applied Math) at the University of Waterloo (2022).
 
 ## Research
-#### My current research interests concern the evolution and stability of various flows in electrically conducting fluids (such as plasmas). The bulk of my research experience has been the numerical study of the Shallow-Water equations and it's generalization to magnetohydrodynamics (MHD).
+#### My current research interests concern the stability of various flows in Geophysical Flows and Magnetohydrodynamics (MHD). The bulk of my research experience has been the numerical study of the Shallow-Water equations and it's MHD counter parts.
 
 ## Publications
 #### To come..
