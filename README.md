@@ -14,6 +14,15 @@
 
 ## Figures and Simulations
 #### Unstable Bickley Jet (Snapshots in the Nonlinear Regime)
+
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="assets/images/jet.png">
+    <source src="assets/images/jet.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
+
 ![time1](https://user-images.githubusercontent.com/83715168/117199285-04242f00-adb8-11eb-9cb1-2daa4342e5c1.jpg)
 ![time2](https://user-images.githubusercontent.com/83715168/117199295-06868900-adb8-11eb-9526-343946909dee.jpg)
 ![time3](https://user-images.githubusercontent.com/83715168/117199304-08504c80-adb8-11eb-9677-b2d7c00895e5.jpg)
