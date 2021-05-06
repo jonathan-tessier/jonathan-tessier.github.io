@@ -13,7 +13,7 @@
 #### To come..
 
 ## Figures and Simulations
-#### Unstable Bickley Jet (Linear to Nonlinear Regime)
+#### Unstable Bickley Jet (Snapshots in the Nonlinear Regime)
 ![time1](https://user-images.githubusercontent.com/83715168/117199285-04242f00-adb8-11eb-9cb1-2daa4342e5c1.jpg)
 ![time2](https://user-images.githubusercontent.com/83715168/117199295-06868900-adb8-11eb-9526-343946909dee.jpg)
 ![time3](https://user-images.githubusercontent.com/83715168/117199304-08504c80-adb8-11eb-9677-b2d7c00895e5.jpg)
