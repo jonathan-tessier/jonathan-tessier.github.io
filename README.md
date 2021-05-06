@@ -10,7 +10,7 @@
 #### My current research interests concern the stability of various flows in Geophysical Flows and Magnetohydrodynamics (MHD). The bulk of my research experience has been the numerical study of the Shallow-Water equations and it's MHD counter parts.
 
 ## Publications
-#### To come..
+#### In preparation
 
 ## Figures and Simulations
 #### Unstable Bickley Jet (Snapshots in the Nonlinear Regime)
