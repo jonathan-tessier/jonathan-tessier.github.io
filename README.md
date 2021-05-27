@@ -10,7 +10,7 @@
 #### My current research interests concern the stability of various flows in Geophysical Fluid Dynamics (GFD) and Magnetohydrodynamics (MHD). The bulk of my research experience has been the numerical study of the Shallow-Water equations and it's MHD counter parts.
 
 ## Publications
-#### Tessier, J., Castro-Folker, N., Poulin, F.J., Stastna, M. (2021). Anisotropy in Faraday Instabilities of a Shallow Conducting Fluid. Manuscript in preparation.
+#### Tessier, J., Castro-Folker, N., Poulin, F.J., Stastna, M. (2021). Anisotropy in Faraday Instabilities of a Shallow Conducting Fluid. Manuscript submitted for publication.
 
 ## Figures and Simulations
 #### Nonlinear Evolution of an Unstable Bickley Jet 
