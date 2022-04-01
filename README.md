@@ -25,7 +25,7 @@
 </figure>
 <!-- blank line -->
 
-#### Two-Dimensional Magnetohydrodynamic Turbulence 
+#### Decaying Two-Dimensional Magnetohydrodynamic Turbulence 
 
 <!-- blank line -->
 <figure class="video_container">
