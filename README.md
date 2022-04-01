@@ -22,6 +22,10 @@
   </video>
 </figure>
 <!-- blank line -->
+
+#### Two-dimensional MHD Turbulence 
+
+<!-- blank line -->
 <figure class="video_container">
   <video width="500" height="500" controls="true" allowfullscreen="true">
     <source src="assets/images/pv.mp4" type="video/mp4">
