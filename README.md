@@ -13,7 +13,7 @@
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), 135(3), 34001. [doi:10.1209/0295-5075/ac1779](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
 
 ## Figures and Simulations
-#### Nonlinear Evolution of an Unstable Bickley Jet 
+#### Nonlinear Evolution of an Unstable Bickley Jet (Hydrodynamic)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -23,7 +23,7 @@
 </figure>
 <!-- blank line -->
 
-#### Two-dimensional MHD Turbulence 
+#### Two-Dimensional Magnetohydrodynamic Turbulence 
 
 <!-- blank line -->
 <figure class="video_container">
