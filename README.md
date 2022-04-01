@@ -27,7 +27,7 @@
 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="500" height="500" controls="true" allowfullscreen="true">
+  <video width="500" height="500" controls="true" allowfullscreen="true" poster="assets/images/pv.jpg">
     <source src="assets/images/pv.mp4" type="video/mp4">
   </video>
 </figure>
