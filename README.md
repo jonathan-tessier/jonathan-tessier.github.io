@@ -1,5 +1,5 @@
 ## About
-#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in Python, Matlab, Julia, C/C++, Fortran, R, Maple and automation frameworks. I am currently completing a Master's degree of Mathematics (Applied Math - Fluid Mechanics) and I be entering a PhD in Oceanography at l'Université du Québec à Rimouski in the Fall of 2022.
+#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in Python, Matlab, Julia, C/C++, Fortran, R, Maple and automation frameworks. I am currently completing a Master's degree of Mathematics (Applied Math - Fluid Mechanics) and I will be entering a PhD in Oceanography at l'Université du Québec à Rimouski in the Fall of 2022.
 
 ## Education
 #### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
