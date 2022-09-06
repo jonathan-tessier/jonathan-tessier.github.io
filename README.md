@@ -1,12 +1,12 @@
 ## About
-#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in Python, Matlab, Julia, C/C++, Fortran, R, Maple and automation frameworks. I am currently completing a Master's degree of Mathematics (Applied Math - Fluid Mechanics) and I will be entering a PhD in Oceanography at l'Université du Québec à Rimouski in the Fall of 2022.
+#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in Python, Matlab, Julia, C/C++, Fortran, R, Maple and automation frameworks. I am currently completing a PhD in Oceanography at l'Université du Québec à Rimouski.
 
 ## Education
 #### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
 
-#### Candidate for a Master of Mathematics (Applied Math) at the University of Waterloo (2022).
+#### Master of Mathematics (Applied Math) at the University of Waterloo (2022).
 
-#### Future Candidate for a PhD in Oceanography (Physical Oceanography) at l'Université du Québec à Rimouski (UQAR).
+#### Candidate for a PhD in Oceanography (Physical Oceanography) at l'Université du Québec à Rimouski (UQAR).
 
 ## Research
 #### My current research interests concern the stability of various flows in Geophysical Fluid Dynamics (GFD) and Magnetohydrodynamics (MHD). The bulk of my research experience has been the numerical study of the Shallow-Water equations, the Quasi-Geostrophic equations, and their MHD counter parts.
