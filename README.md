@@ -4,7 +4,7 @@
 ## Education
 #### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
 
-#### Master of Mathematics (Applied Math) at the University of Waterloo (2022).
+#### Master of Mathematics (Applied Math) at the University of Waterloo (2022). [View Thesis](https://uwspace.uwaterloo.ca/handle/10012/18472)
 
 #### Candidate for a PhD in Oceanography (Physical Oceanography) at l'Université du Québec à Rimouski (UQAR).
 
@@ -13,6 +13,16 @@
 
 ## Publications
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), 135(3), 34001. [doi:10.1209/0295-5075/ac1779](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
+
+## Presentations
+
+#### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.3198T/abstract) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
+#### Tessier, J., Poulin, F. J., & Harris, M. (2022). Gulf Stream: Skewed Jet Dynamics. Canadian Meteorological and Oceanographic Society (CMOS) Annual Meeting (virtual), Saskatoon, Canada.
+#### Tessier, J., & Poulin, F. J. (2021). Quasi-Geostrophic Magnetohydrodynamics. Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting (virtual), Waterloo, Canada.
+#### Tessier, J., & Poulin, F. J. (2020). Modelling Jets in the Solar Tachocline. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference (virtual), Waterloo, Canada (Best research talk prize obtained).
+#### Tessier, J., & Poulin, F. J. (2019a). Hydrodynamics: The Shallow Water Model on Earth and on the Sun. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference, Waterloo, Canada (Best research talk prize obtained).
+#### Tessier, J., & Poulin, F. J. (2019b). The Instability of Jets in Magnetohydrodynamics. Waterloo Mathematics Undergraduate Research Conference, Waterloo, Canada (Poster Presentation).
+
 
 ## Figures and Simulations
 #### Nonlinear Evolution of an Unstable Bickley Jet (Hydrodynamic)
