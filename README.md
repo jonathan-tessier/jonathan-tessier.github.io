@@ -11,10 +11,10 @@
 ## Research
 #### I am curerntly interested in conceptual models the Atlantic Meridional Overturning Circulation (AMOC) for my PhD. I have also studied the stability of various flows in geophysical fluid dynamics (GFD) and magnetohydrodynamics (MHD) during my Bachelor's and Master's degree in Applied Mathematics at the University of Waterloo. The bulk of my research experience has been the numerical study of large-scale flows, including (but not restriced to) the Shallow-Water equations, the Quasi-Geostrophic equations, and their MHD counter parts (with the addition of the Lorentz force). I am particularly comfortable with pseudo-spectral methods, linear stability analysis, and energy fluxes.
 
-## Publications
+## Journal Articles
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), 135(3), 34001. [doi:10.1209/0295-5075/ac1779](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
 
-## Presentations
+## Conference Presentations
 
 #### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.3198T/abstract) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
 #### Tessier, J., Poulin, F. J., & Harris, M. (2022). Gulf Stream: Skewed Jet Dynamics. Canadian Meteorological and Oceanographic Society (CMOS) Annual Meeting (virtual), Saskatoon, Canada.
