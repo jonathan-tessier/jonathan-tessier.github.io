@@ -4,7 +4,7 @@
 ## Education
 #### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
 
-#### Master of Mathematics (Applied Math) at the University of Waterloo (2022). [View Thesis](https://uwspace.uwaterloo.ca/handle/10012/18472)
+#### Master of Mathematics (Applied Math) at the University of Waterloo (2022). [[View Thesis]](https://uwspace.uwaterloo.ca/handle/10012/18472) [[Thesis Code]](https://github.com/jonathan-tessier/qgmhd)
 
 #### Candidate for a PhD in Oceanography (Physical Oceanography) at l'Université du Québec à Rimouski (UQAR).
 
