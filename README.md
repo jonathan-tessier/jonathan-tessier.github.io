@@ -16,7 +16,7 @@
 
 ## Conference Presentations
 
-#### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://ui.adsabs.harvard.edu/abs/2022EGUGA..24.3198T/abstract) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
+#### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://meetingorganizer.copernicus.org/EGU22/EGU22-3198.html) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
 #### Tessier, J., Poulin, F. J., & Harris, M. (2022). Gulf Stream: Skewed Jet Dynamics. Canadian Meteorological and Oceanographic Society (CMOS) Annual Meeting (virtual), Saskatoon, Canada.
 #### Tessier, J., & Poulin, F. J. (2021). Quasi-Geostrophic Magnetohydrodynamics. Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting (virtual), Waterloo, Canada.
 #### Tessier, J., & Poulin, F. J. (2020). Modelling Jets in the Solar Tachocline. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference (virtual), Waterloo, Canada (Best research talk prize obtained).
