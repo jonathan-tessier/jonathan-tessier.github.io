@@ -1,5 +1,5 @@
 ## About
-#### I am a reliable, dedicated and fully bilingual (French–English) Canadian citizen. I thrive when faced with a challenge and I perform well under pressure. I am eager to learn as I crave knowledge. I am intelligent, motivated and skilled in a variety of mathematical fields with programming experience in Python, Matlab, Julia, C/C++, Fortran, R, Maple and automation frameworks. I am currently completing a PhD in Oceanography at l'Université du Québec à Rimouski, studying conceptual models of the Atlantic Meridional Overturning Circulation (AMOC).
+#### Canadian (bilingual) graduate student interested in geophysical/astrophysical fluid dynamics, competent in several mathematical fields (differential equations, numerical analysis, computational oceanography) with programming experience in Python, Matlab, Julia, C/C++, Fortran, R and automation frameworks. I am currently completing a PhD in Oceanography at l'Université du Québec à Rimouski, studying conceptual models of the Atlantic Meridional Overturning Circulation (AMOC).
 
 ## Education
 #### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
