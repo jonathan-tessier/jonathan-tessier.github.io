@@ -16,6 +16,8 @@
 
 ## Conference Presentations
 
+#### Tessier, J., & Nadeau, L.-P. (2024). Un modèle bidimensionnel étudiant l’influence des vents sur la circulation méridionale de renversement de l’Atlantique. Réunion scientifique annuelle de Québec Océan, Rivière-du-loup, Canada. (upcoming in February)
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation (Poster Presentation). Ocean Sciences Meeting, New Orleans, USA. (upcoming in February)
 #### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://meetingorganizer.copernicus.org/EGU22/EGU22-3198.html) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
 #### Tessier, J., Poulin, F. J., & Harris, M. (2022). Gulf Stream: Skewed Jet Dynamics. Canadian Meteorological and Oceanographic Society (CMOS) Annual Meeting (virtual), Saskatoon, Canada.
 #### Tessier, J., & Poulin, F. J. (2021). Quasi-Geostrophic Magnetohydrodynamics. Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting (virtual), Waterloo, Canada.
