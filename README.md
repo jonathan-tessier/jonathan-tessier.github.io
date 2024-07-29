@@ -17,7 +17,7 @@
 ## Conference Presentations
 
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). [A Simplified Model of the MOC with Latitudinally Varying Basin Upwelling.](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/444109) AMS Conference on Atmospheric and Oceanic Fluid Dynamics (AOFD), Burlington, USA.
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). Impacts of Wind on the Atlantic Meridional Overturning Circulation in a 2D Model. Fluid Dynamics of Sustainability and the Environment (FDSE) Summer School, Paris, France (Poster presentation).
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). Impacts of Wind on the Atlantic Meridional Overturning Circulation in a 2D Model. Fluid Dynamics of Sustainability and the Environment (FDSE) Summer School, Paris, France (Poster Presentation).
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation. AGU Ocean Sciences Meeting, New Orleans, USA (Poster Presentation). 
 #### Tessier, J., & Nadeau, L.-P. (2024). Un modèle bidimensionnel étudiant l’influence des vents sur la circulation méridionale de renversement de l’Atlantique. Réunion scientifique annuelle de Québec Océan, Rivière-du-loup, Canada. 
 #### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://meetingorganizer.copernicus.org/EGU22/EGU22-3198.html) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
