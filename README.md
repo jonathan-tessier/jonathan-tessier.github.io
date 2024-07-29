@@ -16,14 +16,16 @@
 
 ## Conference Presentations
 
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. (Feb 19, 2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation (Poster Presentation). AGU Ocean Sciences Meeting, New Orleans, USA. 
-#### Tessier, J., & Nadeau, L.-P. (Feb 7, 2024). Un modèle bidimensionnel étudiant l’influence des vents sur la circulation méridionale de renversement de l’Atlantique. Réunion scientifique annuelle de Québec Océan, Rivière-du-loup, Canada. 
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Simplified Model of the MOC with Latitudinally Varying Basin Upwelling. AMS Conference on Atmospheric and Oceanic Fluid Dynamics (AOFD), Burlington, USA.
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). Impacts of Wind on the Atlantic Meridional Overturning Circulation in a 2D Model. Fluid Dynamics of Sustainability and the Environment (FDSE) Summer School, Paris, France (Poster presentation).
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation. AGU Ocean Sciences Meeting, New Orleans, USA (Poster Presentation). 
+#### Tessier, J., & Nadeau, L.-P. (2024). Un modèle bidimensionnel étudiant l’influence des vents sur la circulation méridionale de renversement de l’Atlantique. Réunion scientifique annuelle de Québec Océan, Rivière-du-loup, Canada. 
 #### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://meetingorganizer.copernicus.org/EGU22/EGU22-3198.html) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
 #### Tessier, J., Poulin, F. J., & Harris, M. (2022). Gulf Stream: Skewed Jet Dynamics. Canadian Meteorological and Oceanographic Society (CMOS) Annual Meeting (virtual), Saskatoon, Canada.
 #### Tessier, J., & Poulin, F. J. (2021). Quasi-Geostrophic Magnetohydrodynamics. Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting (virtual), Waterloo, Canada.
 #### Tessier, J., & Poulin, F. J. (2020). Modelling Jets in the Solar Tachocline. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference (virtual), Waterloo, Canada (Best research talk prize obtained).
-#### Tessier, J., & Poulin, F. J. (2019b). Hydrodynamics: The Shallow Water Model on Earth and on the Sun. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference, Waterloo, Canada (Best research talk prize obtained).
-#### Tessier, J., & Poulin, F. J. (2019a). The Instability of Jets in Magnetohydrodynamics. Waterloo Mathematics Undergraduate Research Conference, Waterloo, Canada (Poster Presentation).
+#### Tessier, J., & Poulin, F. J. (2019). Hydrodynamics: The Shallow Water Model on Earth and on the Sun. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference, Waterloo, Canada (Best research talk prize obtained).
+#### Tessier, J., & Poulin, F. J. (2019). The Instability of Jets in Magnetohydrodynamics. Waterloo Mathematics Undergraduate Research Conference, Waterloo, Canada (Poster Presentation).
 
 
 ## Figures and Simulations
