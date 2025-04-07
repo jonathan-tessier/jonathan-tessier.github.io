@@ -15,7 +15,7 @@
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), 135(3), 34001. [doi:10.1209/0295-5075/ac1779](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
 
 ## Conference Presentations
-
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2025). A Simple 2D Model of the Abyssal Boundary Layer. Réunion annuelle de Québec Océan, Rivière-du-loup (Poster Presentation).
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). [A Simplified Model of the MOC with Latitudinally Varying Basin Upwelling.](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/444109) AMS Conference on Atmospheric and Oceanic Fluid Dynamics (AOFD), Burlington, USA.
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). Impacts of Wind on the Atlantic Meridional Overturning Circulation in a 2D Model. Fluid Dynamics of Sustainability and the Environment (FDSE) Summer School, Paris, France (Poster Presentation).
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation. AGU Ocean Sciences Meeting, New Orleans, USA (Poster Presentation). 
