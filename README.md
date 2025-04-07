@@ -27,6 +27,12 @@
 #### Tessier, J., & Poulin, F. J. (2019). Hydrodynamics: The Shallow Water Model on Earth and on the Sun. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference, Waterloo, Canada (Best research talk prize obtained).
 #### Tessier, J., & Poulin, F. J. (2019). The Instability of Jets in Magnetohydrodynamics. Waterloo Mathematics Undergraduate Research Conference, Waterloo, Canada (Poster Presentation).
 
+## Workshops and Schools
+
+#### Advanced summer school on Mathematical Fluid Dynamics (Corsica, 2025)
+#### International winter school on Sea-ice Interactions in the Arctic (ISMER, Rimouski, 2025)
+#### Fluid Dynamics of Sustainability and the Environment summer school (École Polytechnique, Paris, 2024)
+#### Ice Modelling Working Group and Sea Ice Data Assimilation Meeting (Montreal, 2018)
 
 ## Figures and Simulations
 #### Nonlinear Evolution of an Unstable Bickley Jet (Hydrodynamic)
