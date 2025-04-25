@@ -32,7 +32,7 @@
 #### Tessier, J., & Poulin, F. J. (2021). Quasi-Geostrophic Magnetohydrodynamics. Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting (virtual), Waterloo, Canada.
 #### Tessier, J., & Poulin, F. J. (2020). Modelling Jets in the Solar Tachocline. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference (virtual), Waterloo, Canada (Best research talk prize obtained).
 #### Tessier, J., & Poulin, F. J. (2019). Hydrodynamics: The Shallow Water Model on Earth and on the Sun. University of Waterloo Applied Mathematics Undergraduate Student Research Awards Conference, Waterloo, Canada (Best research talk prize obtained).
-#### Tessier, J., & Poulin, F. J. (2019). The Instability of Jets in Magnetohydrodynamics. Waterloo Mathematics Undergraduate Research Conference, Waterloo, Canada (Poster Presentation).
+#### Tessier, J., & Poulin, F. J. (2019). The Instability of Jets in Magnetohydrodynamics. Waterloo Mathematics Undergraduate Research Conference, Waterloo, Canada (Poster).
 
 ## Workshops and Schools
 
