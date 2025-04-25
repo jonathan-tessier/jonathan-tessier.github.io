@@ -18,10 +18,13 @@
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), 135(3), 34001. [doi:10.1209/0295-5075/ac1779](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
 
 ## Conference Presentations
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2025). A Simple 2D Model of the Abyssal Boundary Layer. Réunion annuelle de Québec Océan, Rivière-du-loup (Poster Presentation).
+
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2025). A Thermal Wind Closure for the Meridional Overturning Circulation. Advanced Summer school on Mathematical Fluid Dynamics, Corsica, France (Poster).
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2025). A Simple Model of the MOC Reconciling Basin Dynamics. International Winter School on sea-ice interactions in the Arctic, Rimouski, Canada. 
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2025). A Simple 2D Model of the Abyssal Boundary Layer. Réunion annuelle de Québec Océan, Rivière-du-loup, Canada (Poster).
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). [A Simplified Model of the MOC with Latitudinally Varying Basin Upwelling.](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/444109) AMS Conference on Atmospheric and Oceanic Fluid Dynamics (AOFD), Burlington, USA.
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). Impacts of Wind on the Atlantic Meridional Overturning Circulation in a 2D Model. Fluid Dynamics of Sustainability and the Environment (FDSE) Summer School, Paris, France (Poster Presentation).
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation. AGU Ocean Sciences Meeting, New Orleans, USA (Poster Presentation). 
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). Impacts of Wind on the Atlantic Meridional Overturning Circulation in a 2D Model. Fluid Dynamics of Sustainability and the Environment (FDSE) Summer School, Paris, France (Poster).
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2024). A Two-Dimensional Model Investigating the Influence of Winds on the Atlantic Meridional Overturning Circulation. AGU Ocean Sciences Meeting, New Orleans, USA (Poster). 
 #### Tessier, J., & Nadeau, L.-P. (2024). Un modèle bidimensionnel étudiant l’influence des vents sur la circulation méridionale de renversement de l’Atlantique. Réunion scientifique annuelle de Québec Océan, Rivière-du-loup, Canada. 
 #### Tessier, J., Poulin, F. J., & D.W.Hughes. (2022). [Instabilities and Turbulence in Two-Dimensional Magnetohydrodynamics.](https://meetingorganizer.copernicus.org/EGU22/EGU22-3198.html) European Geosciences Union (EGU) Annual Meeting (virtual), Vienna, Austria.
 #### Tessier, J., Poulin, F. J., & Harris, M. (2022). Gulf Stream: Skewed Jet Dynamics. Canadian Meteorological and Oceanographic Society (CMOS) Annual Meeting (virtual), Saskatoon, Canada.
