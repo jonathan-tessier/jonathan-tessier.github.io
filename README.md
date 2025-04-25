@@ -36,7 +36,7 @@
 
 ## Workshops and Schools
 
-#### Advanced summer school on Mathematical Fluid Dynamics (Corsica, 2025)
+#### Advanced summer school on Mathematical Fluid Dynamics (IESC, Corsica, 2025)
 #### International winter school on Sea-ice Interactions in the Arctic (ISMER, Rimouski, 2025)
 #### Fluid Dynamics of Sustainability and the Environment summer school (École Polytechnique, Paris, 2024)
 #### Ice Modelling Working Group and Sea Ice Data Assimilation Meeting (Montreal, 2018)
