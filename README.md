@@ -2,14 +2,15 @@
 #### Canadian (bilingual) graduate student interested in geophysical and astrophysical fluid dynamics, competent in several mathematical fields (differential equations, numerical analysis, computational oceanography) with programming experience in Python, Matlab, Julia, C/C++, Fortran, R and automation frameworks. I am currently completing a PhD in Oceanography at l'Université du Québec à Rimouski, studying the Atlantic Meridional Overturning Circulation (AMOC).
 
 ## Education
-#### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
-
-#### Master of Mathematics (Applied Math) at the University of Waterloo (2022). [[View Thesis]](https://uwspace.uwaterloo.ca/handle/10012/18472) [[Thesis Code]](https://github.com/jonathan-tessier/qgmhd)
 
 #### Candidate for a PhD in Oceanography (Physical Oceanography) at l'Université du Québec à Rimouski (UQAR).
 
+#### Master of Mathematics (Applied Math) at the University of Waterloo (2022). [[View Thesis]](https://uwspace.uwaterloo.ca/handle/10012/18472) [[Thesis Code]](https://github.com/jonathan-tessier/qgmhd)
+
+#### Bachelor of Mathematics in Honours Mathematical Physics at the University of Waterloo (2020).
+
 ## Research
-#### I am currently interested in conceptual models of the Atlantic Meridional Overturning Circulation (AMOC) in the scope of my PhD. I have also studied the stability of various flows in geophysical fluid dynamics (GFD) and magnetohydrodynamics (MHD) during my Bachelor's and Master's degrees in Applied Mathematics at the University of Waterloo. The bulk of my research experience has been the numerical study of large-scale flows, including (but not restriced to) the Shallow-Water equations, the Quasi-Geostrophic equations, and their MHD counter parts (with the addition of the Lorentz force). I am particularly comfortable with pseudo-spectral methods, linear stability analysis, and energy fluxes.
+#### I am currently interested in conceptual models of the Atlantic Meridional Overturning Circulation (AMOC) in the scope of my PhD, to study the dominant physical mechanisms of the circulation. I have also studied the stability of various flows in geophysical fluid dynamics (GFD) and magnetohydrodynamics (MHD) during my Bachelor's and Master's degrees in Applied Mathematics at the University of Waterloo. The bulk of my research experience has been the numerical study of large-scale flows, including (but not restriced to) the Shallow-Water equations, the Quasi-Geostrophic equations, and their MHD counter parts (with the addition of the Lorentz force). I am particularly comfortable with pseudo-spectral methods, linear stability analysis, and energetics.
 
 ## Journal Articles
 
