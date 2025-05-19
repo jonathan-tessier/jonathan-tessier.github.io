@@ -14,9 +14,9 @@
 
 ## Journal Articles
 
-#### Tessier, J., Poulin, F. J., & Hughes, D. W. (Accepted: 2025). The dynamic expulsion of magnetic flux by vortices. Physical Review Fluids (PRFluids). ISSN 2469-990X. [(In Press)](https://eprints.whiterose.ac.uk/id/eprint/225661/)
+#### Tessier, J., Poulin, F. J., & Hughes, D. W. (2025). The dynamic expulsion of magnetic flux by vortices. Phys. Rev. Fluids, [10, 053702.](https://doi.org/10.1103/PhysRevFluids.10.053702)
 
-#### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), 135(3), 34001. [doi:10.1209/0295-5075/ac1779](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
+#### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), [135(3), 34001.](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
 
 ## Conference Presentations
 
