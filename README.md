@@ -14,6 +14,8 @@
 
 ## Journal Articles
 
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. F.. A zonally averaged model of the meridional overturning circulation. Submitted to Journal of Physical Oceanography.
+
 #### Tessier, J., Poulin, F. J., & Hughes, D. W. (2025). The dynamic expulsion of magnetic flux by vortices. Phys. Rev. Fluids, [10, 053702.](https://doi.org/10.1103/PhysRevFluids.10.053702)
 
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), [135(3), 34001.](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
