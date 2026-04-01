@@ -14,7 +14,7 @@
 
 ## Journal Articles
 
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. F. (2026). A zonally averaged model of the meridional overturning circulation. J. Phys. Oceanogr., [doi:10.1175/JPO-D-25-0197.1, in press.](https://doi.org/10.1175/JPO-D-25-0197.1)
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. F. (2026). A zonally averaged model of the meridional overturning circulation. J. Phys. Oceanogr., [56, 957–972.](https://doi.org/10.1175/JPO-D-25-0197.1)
 
 #### Tessier, J., Poulin, F. J., & Hughes, D. W. (2025). The dynamic expulsion of magnetic flux by vortices. Phys. Rev. Fluids, [10, 053702.](https://doi.org/10.1103/PhysRevFluids.10.053702)
 
