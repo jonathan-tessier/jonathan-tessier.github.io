@@ -21,7 +21,7 @@
 #### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), [135(3), 34001.](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
 
 ## Conference Presentations
-#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2026). Effects of basin wind-stress in a zonally-averaged model of the MOC. Idealised mathematical models for geophysical flows (Mathematical Developments in GFD), Paris, France (Poster). 
+#### Tessier, J., Nadeau, L.-P., & Jansen, M. (2026). Effects of basin wind-stress in a zonally-averaged model of the MOC. Mathematical Developments in GFD: Idealised mathematical models for geophysical flows, Paris, France (Poster). 
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2026). A 2D model to study interactions between the wind-driven gyres and the MOC. Perspectives and challenges in Geophysical Fluid Dynamnics, Paris, France. 
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2026). Revisiting basin dynamics in a zonally averaged model of the MOC. AGU Ocean Sciences Meeting, Glasgow, Scotland.
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2025). A Thermal Wind Closure for the Meridional Overturning Circulation. Advanced Summer school on Mathematical Fluid Dynamics, Corsica, France (Poster).
@@ -40,8 +40,8 @@
 
 ## Workshops and Schools
 
-#### Idealised mathematical models for geophysical flows (Mathematical Developments in GFD), (Paris, France, 2026)
-#### Perspectives and challenges in Geophysical Fluid Dynamnics, (Paris, France, 2026)
+#### Mathematical Developments in GFD: Idealised mathematical models for geophysical flows (IHP, Paris, 2026)
+#### Perspectives and challenges in Geophysical Fluid Dynamnics (ENS, Paris, 2026)
 #### Advanced summer school on Mathematical Fluid Dynamics (IESC, Corsica, 2025)
 #### International winter school on Sea-ice Interactions in the Arctic (ISMER, Rimouski, 2025)
 #### Fluid Dynamics of Sustainability and the Environment summer school (École Polytechnique, Paris, 2024)
