@@ -18,7 +18,7 @@
 
 #### Tessier, J., Poulin, F. J., & Hughes, D. W. (2025). The dynamic expulsion of magnetic flux by vortices. Phys. Rev. Fluids, [10, 053702.](https://doi.org/10.1103/PhysRevFluids.10.053702)
 
-#### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), [135(3), 34001.](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779)
+#### Tessier, J., Castro-Folker, N., Poulin, F. J., & Stastna, M. (2021). Anisotropy in faraday instabilities of a shallow conducting fluid. EPL (Europhysics Letters), [135(3), 34001.](https://iopscience.iop.org/article/10.1209/0295-5075/ac1779) [[pdf]](https://jonathan-tessier.github.io/Sinusoidal_Gravitational_Forcing_Paper.pdf)
 
 ## Conference Presentations
 #### Tessier, J., Nadeau, L.-P., & Jansen, M. (2026). Effects of basin wind-stress in a zonally-averaged model of the MOC. Mathematical Developments in GFD: Idealised mathematical models for geophysical flows, Paris, France (Poster). 
